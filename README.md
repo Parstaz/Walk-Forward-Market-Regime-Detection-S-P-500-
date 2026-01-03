@@ -1,0 +1,1 @@
+# Walk-Forward-Market-Regime-Detection-S-P-500-
