@@ -3,7 +3,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org)
 [![HMM](https://img.shields.io/badge/Model-GaussianHMM-orange)](https://hmmlearn.readthedocs.io/)
-[![Status](https://img.shields.io/badge/Quality-Institutional_Standard-green)](#)
 
 ## 1. Project Overview
 This project implements a **Hidden Markov Model (HMM)** to decode latent market regimes—specifically identifying "Bull," "Bear," and "High Volatility" states—to dynamically adjust portfolio exposure. 
